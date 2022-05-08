@@ -10,4 +10,4 @@
         name: CareTaker-Server
         image: nipungoel2000/server
         ports: 
-          - "80:3001"
+          - "3001:3001"
