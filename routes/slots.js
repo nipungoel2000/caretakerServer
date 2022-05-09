@@ -69,7 +69,7 @@ router.post('/add',async(req,res) =>
     }
 });
 
-//FETCH AVAILABLE SLOTS FOR A USER BY ITS TOKEN AND DATE
+//FETCH AVAILABLE SLOTS FOR A USER BY ITS TOKEN, ROOM NUMBER and DATE
 router.post('/fetch',async(req,res) => {
     logger.info("inside fetchslots method - message from winston");
     try {
