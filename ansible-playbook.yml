@@ -6,6 +6,11 @@
         name: CareTaker-Server
         image: nipungoel2000/server
         state: absent
+    - name: Remove already existing docker image
+      docker_image:
+        name: nipungoel2000/server
+        force: true
+        state: absent
     - name: Pull CareTaker-Server image
       docker_image:
         name: nipungoel2000/server
