@@ -185,10 +185,10 @@ router.post("/fetchall",async (req,res) =>
         if(req.body.sortby == "RoomNumber")
         {   
             // console.log("Sorting by room number");
-            activeBookingslst.sort(sortBy("roomNum","date","startTime"));
+            activeBookingslst.sort(sortBy("roomNum","date","Time"));
         }
         else
-            activeBookingslst.sort(sortBy("date","startTime","roomNum"));
+            activeBookingslst.sort(sortBy("date","Time","roomNum"));
         return res.status(201).send({bookingsLst : activeBookingslst});
     }
     catch(err){
