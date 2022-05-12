@@ -5,7 +5,7 @@
 .npm
 
 # dotenv environment variables file
-# .env
+.env
 
 # testing
 /coverage

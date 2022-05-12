@@ -1,69 +1,53 @@
-2022-05-08 14:27:00, info, admin user signed in successfully - message from winston
-2022-05-08 14:27:01, info, inside getname method - message from winston
-2022-05-08 14:27:01, info, inside getname method - message from winston
-2022-05-08 14:27:05, info, inside getname method - message from winston
-2022-05-08 14:27:07, info, inside getname method - message from winston
-2022-05-08 14:27:08, info, inside fetchallbookings method - message from winston
-2022-05-08 14:27:10, info, inside fetchallbookings method - message from winston
-2022-05-08 14:27:11, info, inside getdata method - message from winston
-2022-05-08 14:27:48, info, admin user signed in successfully - message from winston
-2022-05-08 14:27:49, info, inside getname method - message from winston
-2022-05-08 14:27:49, info, inside getname method - message from winston
-2022-05-08 14:28:11, info, inside fetchallbookings method - message from winston
-2022-05-08 14:28:56, info, inside getname method - message from winston
-2022-05-08 14:29:07, info, inside getdata method - message from winston
-2022-05-10 00:04:40, info, student user signed up successfully - message from winston
-2022-05-10 00:04:40, error, error inside signin method - message from winston
-2022-05-10 00:04:40, info, student user signed in successfully - message from winston
-2022-05-10 00:04:40, error, Invalid Email or Password - message from winston
-2022-05-10 00:04:40, info, admin user signed up successfully - message from winston
-2022-05-10 00:04:40, error, error inside signin method - message from winston
-2022-05-10 00:04:40, info, admin user signed in successfully - message from winston
-2022-05-10 00:04:41, error, Invalid Email or Password - message from winston
-2022-05-10 00:04:41, info, admin user signed in successfully - message from winston
-2022-05-10 00:04:41, info, inside deleteuser method - message from winston
-2022-05-10 00:04:41, info, inside deleteuser method - message from winston
-2022-05-10 00:05:52, info, student user signed up successfully - message from winston
-2022-05-10 00:05:52, error, error inside signin method - message from winston
-2022-05-10 00:05:52, info, student user signed in successfully - message from winston
-2022-05-10 00:05:52, error, Invalid Email or Password - message from winston
-2022-05-10 00:05:53, info, admin user signed up successfully - message from winston
-2022-05-10 00:05:53, error, error inside signin method - message from winston
-2022-05-10 00:05:53, info, admin user signed in successfully - message from winston
-2022-05-10 00:05:53, error, Invalid Email or Password - message from winston
-2022-05-10 00:05:53, info, admin user signed in successfully - message from winston
-2022-05-10 00:05:53, info, inside deleteuser method - message from winston
-2022-05-10 00:05:53, info, inside deleteuser method - message from winston
-2022-05-10 00:07:12, info, student user signed up successfully - message from winston
-2022-05-10 00:07:12, error, error inside signin method - message from winston
-2022-05-10 00:07:12, info, student user signed in successfully - message from winston
-2022-05-10 00:07:12, error, Invalid Email or Password - message from winston
-2022-05-10 00:07:13, info, admin user signed up successfully - message from winston
-2022-05-10 00:07:13, error, error inside signin method - message from winston
-2022-05-10 00:07:13, info, admin user signed in successfully - message from winston
-2022-05-10 00:07:13, error, Invalid Email or Password - message from winston
-2022-05-10 00:07:13, info, admin user signed in successfully - message from winston
-2022-05-10 00:07:13, info, inside deleteuser method - message from winston
-2022-05-10 00:07:13, info, inside deleteuser method - message from winston
-2022-05-10 00:08:41, info, student user signed up successfully - message from winston
-2022-05-10 00:08:41, error, error inside signin method - message from winston
-2022-05-10 00:08:42, info, student user signed in successfully - message from winston
-2022-05-10 00:08:42, error, Invalid Email or Password - message from winston
-2022-05-10 00:08:42, info, admin user signed up successfully - message from winston
-2022-05-10 00:08:42, error, error inside signin method - message from winston
-2022-05-10 00:08:42, info, admin user signed in successfully - message from winston
-2022-05-10 00:08:42, error, Invalid Email or Password - message from winston
-2022-05-10 00:08:43, info, admin user signed in successfully - message from winston
-2022-05-10 00:08:43, info, inside deleteuser method - message from winston
-2022-05-10 00:08:43, info, inside deleteuser method - message from winston
-2022-05-10 00:09:00, info, student user signed up successfully - message from winston
-2022-05-10 00:09:00, error, error inside signin method - message from winston
-2022-05-10 00:09:00, info, student user signed in successfully - message from winston
-2022-05-10 00:09:00, error, Invalid Email or Password - message from winston
-2022-05-10 00:09:00, info, admin user signed up successfully - message from winston
-2022-05-10 00:09:00, error, error inside signin method - message from winston
-2022-05-10 00:09:00, info, admin user signed in successfully - message from winston
-2022-05-10 00:09:00, error, Invalid Email or Password - message from winston
-2022-05-10 00:09:01, info, admin user signed in successfully - message from winston
-2022-05-10 00:09:01, info, inside deleteuser method - message from winston
-2022-05-10 00:09:01, info, inside deleteuser method - message from winston
+2022-05-10 10:48:09, info, inside getname method - message from winston
+2022-05-10 10:48:10, info, inside getname method - message from winston
+2022-05-10 10:48:14, info, inside getdata method - message from winston
+2022-05-10 10:48:14, info, inside fetchbytokenbooking method - message from winston
+2022-05-10 10:48:14, info, inside fetchslots method - message from winston
+2022-05-10 10:48:15, info, inside fetchbytokenbooking method - message from winston
+2022-05-10 10:48:15, info, inside getdata method - message from winston
+2022-05-10 10:48:15, info, inside fetchbytokenbooking method - message from winston
+2022-05-10 10:48:15, info, inside fetchslots method - message from winston
+2022-05-10 10:48:17, info, inside fetchslots method - message from winston
+2022-05-10 10:48:19, info, inside make booking method - message from winston
+2022-05-10 10:48:20, info, inside fetchbytokenbooking method - message from winston
+2022-05-10 10:48:21, info, inside fetchbytokenbooking method - message from winston
+2022-05-10 10:48:24, info, inside getdata method - message from winston
+2022-05-10 10:48:29, error, Invalid Email or Password - message from winston
+2022-05-10 10:48:35, error, Invalid Email or Password - message from winston
+2022-05-10 10:48:51, info, admin user signed in successfully - message from winston
+2022-05-10 10:48:52, info, inside getname method - message from winston
+2022-05-10 10:48:52, info, inside getname method - message from winston
+2022-05-10 10:48:54, info, inside fetchallbookings method - message from winston
+2022-05-10 10:48:55, info, inside getname method - message from winston
+2022-05-10 10:49:06, info, inside addslot method - message from winston
+2022-05-10 10:49:11, info, inside getdata method - message from winston
+2022-05-10 10:49:13, info, inside fetchallbookings method - message from winston
+2022-05-10 10:49:18, info, inside getname method - message from winston
+2022-05-10 10:49:20, info, inside getname method - message from winston
+2022-05-10 10:49:21, info, inside fetchallbookings method - message from winston
+2022-05-10 10:49:29, info, inside fetchallbookings method - message from winston
+2022-05-10 10:49:31, info, inside getname method - message from winston
+2022-05-10 10:49:40, error, Invalid Email or Password - message from winston
+2022-05-10 10:49:57, info, student user signed in successfully - message from winston
+2022-05-10 10:49:59, info, inside getname method - message from winston
+2022-05-10 10:49:59, info, inside getname method - message from winston
+2022-05-10 10:50:00, info, inside getdata method - message from winston
+2022-05-10 10:50:00, info, inside fetchbytokenbooking method - message from winston
+2022-05-10 10:50:00, info, inside fetchslots method - message from winston
+2022-05-10 10:50:01, info, inside fetchbytokenbooking method - message from winston
+2022-05-10 10:50:02, info, inside getdata method - message from winston
+2022-05-10 10:50:02, info, inside fetchbytokenbooking method - message from winston
+2022-05-10 10:50:02, info, inside fetchslots method - message from winston
+2022-05-10 10:50:03, info, inside getname method - message from winston
+2022-05-10 10:50:04, info, inside getdata method - message from winston
+2022-05-10 10:50:04, info, inside fetchbytokenbooking method - message from winston
+2022-05-10 10:50:04, info, inside fetchslots method - message from winston
+2022-05-10 10:50:04, info, inside fetchbytokenbooking method - message from winston
+2022-05-10 10:50:20, info, inside fetchbytokenbooking method - message from winston
+2022-05-10 10:50:20, info, inside fetchbytokenbooking method - message from winston
+2022-05-10 10:50:20, info, inside getdata method - message from winston
+2022-05-10 10:50:20, info, inside fetchslots method - message from winston
+2022-05-10 10:50:24, info, inside fetchbytokenbooking method - message from winston
+2022-05-10 10:50:24, info, inside getdata method - message from winston
+2022-05-10 10:50:24, info, inside fetchbytokenbooking method - message from winston
+2022-05-10 10:50:24, info, inside fetchslots method - message from winston
